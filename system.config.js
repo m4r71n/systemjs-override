@@ -7,7 +7,7 @@ System.config({
   "packages": {
     "app": {
       "map": {
-        "./template.html": "override/override.html"
+        "./template.html": "./../override/override.html"
       }
     }
   }
